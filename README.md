@@ -14,20 +14,6 @@ I am an AI Engineer actively working on Retrieval-Augmented Generation (RAG) and
 
 <br/>
 
-## 🔥 Trending Repositories
-Here are some of my recent highlighted projects:
-
-<div align="center">
-  <a href="https://github.com/syed-shahzil/ArguGen-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syed-shahzil&repo=ArguGen-AI&theme=radical&show_owner=true&border_color=7F3FBF&bg_color=0D1117&title_color=58A6FF" alt="ArguGen-AI" width="48%"/>
-  </a>
-  <a href="https://github.com/syed-shahzil/WebSum.AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syed-shahzil&repo=WebSum.AI&theme=radical&show_owner=true&border_color=7F3FBF&bg_color=0D1117&title_color=58A6FF" alt="WebSum.AI" width="48%"/>
-  </a>
-</div>
-
-<br/>
-
 ## 💻 My Tech Stack
 
 **Languages & Core:**  
@@ -41,6 +27,20 @@ Here are some of my recent highlighted projects:
 
 **Databases & DevOps:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+<br/>
+
+## 🔥 Trending Repositories
+Here are some of my recent highlighted projects:
+
+<div align="center">
+  <a href="https://github.com/syed-shahzil/ArguGen-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syed-shahzil&repo=ArguGen-AI&theme=radical&show_owner=true&border_color=7F3FBF&bg_color=0D1117&title_color=58A6FF" alt="ArguGen-AI" width="48%"/>
+  </a>
+  <a href="https://github.com/syed-shahzil/WebSum.AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syed-shahzil&repo=WebSum.AI&theme=radical&show_owner=true&border_color=7F3FBF&bg_color=0D1117&title_color=58A6FF" alt="WebSum.AI" width="48%"/>
+  </a>
+</div>
 
 <br/>
 
