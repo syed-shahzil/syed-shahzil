@@ -88,10 +88,8 @@ I am an AI Engineer actively working on Retrieval-Augmented Generation (RAG) and
 
 ## 🌐 Connect with Me
 
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedshahziln1214)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedshahzil@alruwadtech.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/syedshahzilabbas)
-
-</div>
+<table><tr>
+<td><a href="https://linkedin.com/in/syedshahziln1214"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a></td>
+<td><a href="mailto:syedshahzil@alruwadtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/></a></td>
+<td><a href="https://instagram.com/syedshahzilabbas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="28" alt="Instagram"/></a></td>
+</tr></table>
